@@ -14,3 +14,6 @@ The dataset includes three files:
 
 application_data.csv: Contains client information at the time of application and indicates payment difficulties.
 previous_application.csv: Provides information on the client's previous loan data, including whether previous applications were approved, canceled, refused, or unused offers.
+
+
+you can get the dataset from this link: https://www.kaggle.com/datasets/venkatasubramanian/credit-eda-case-study?select=application_data.csv
