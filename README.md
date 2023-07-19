@@ -14,4 +14,3 @@ The dataset includes three files:
 
 application_data.csv: Contains client information at the time of application and indicates payment difficulties.
 previous_application.csv: Provides information on the client's previous loan data, including whether previous applications were approved, canceled, refused, or unused offers.
-columns_description.csv: Serves as a data dictionary, describing the meaning of various variables in the dataset.
